@@ -6,9 +6,16 @@
   <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
 
   <em>
-Me chamo Maria Clara Pereira da Fonseca, tenho 18 anos. Concluí o Ensino Médio na Escola Nossa Senhora de Fátima, estou cursando Ciência da Computação Bacharelado na Universidade CEUB. Tenho forte interesse em programação, cybersegurança, design, e em desenvolvimento de jogos. Tenho facilidade e vontade em aprender novos conhecimentos, principalmente que envolva tecnologia
+Me chamo Maria Clara Pereira da Fonseca, tenho 18 anos. Concluí o Ensino Médio na Escola Nossa Senhora de Fátima, estou cursando Ciência da Computação Bacharelado na Universidade CEUB. Tenho forte interesse em:
   </em> 
+  
++ Programação
++ Cybersegurança
++ Design e Ilustração 
++ Desenvolvimento de jogos
 
+Tenho facilidade e vontade em aprender novos conhecimentos, principalmente que envolva tecnologia.
+ 
 <h3 align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/maria-clara-pereira-da-fonseca">
