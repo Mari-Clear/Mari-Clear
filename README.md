@@ -10,6 +10,7 @@ Me chamo Maria Clara Pereira da Fonseca, tenho 18 anos. Concluí o Ensino Médio
   </em> 
   
 + Programação
++ Front-End
 + Cybersegurança
 + Design e Ilustração 
 + Desenvolvimento de jogos
