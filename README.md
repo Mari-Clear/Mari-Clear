@@ -19,7 +19,7 @@ Tenho facilidade e vontade em aprender novos conhecimentos, principalmente que e
  
 <h3 align="center">
 <div id="badges">
-  <a href="www.linkedin.com/in/maria-clara-pereira-da-fonseca-989aa63b4/">
+  <a href="https://www.linkedin.com/in/maria-clara-pereira-da-fonseca-989aa63b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>  
